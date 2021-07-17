@@ -1,0 +1,49 @@
+.heading {
+    font-size: 25px;
+    margin-top: 10px;
+    box-shadow: 3px 3px 3px gainsboro;
+    width: 100%;
+}
+#tobe {
+    height: 1.5px;
+    color: black;
+}
+.heading_div {
+    float: none;
+    background: coral;
+    box-shadow: 3px 3px 3px gainsboro;
+    color: darkblue;
+    padding: 10px;
+}
+.heading_div2 {
+    font-size: 18px;
+}
+
+/*space*/
+
+#result_p {
+    box-shadow: 3px 3px 3px rgba(223, 209, 129, 0.664);
+    font-size: 20px;
+}
+#accu_p {
+    box-shadow: 3px 3px 3px rgba(223, 209, 129, 0.664);
+    font-size: 20px;
+}
+.cr_footer {
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(131, 63, 63);
+    line-height: 3;
+    text-align: center;
+}
+canvas {
+    margin-top: 140px;
+    border-radius: 20px;
+    border: 2.5px dotted rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 255);
+}
+.centeral {
+    text-align: center;
+}
